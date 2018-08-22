@@ -11,6 +11,10 @@ This is a test paragraph.
 > Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
 > id sem consectetuer libero luctus adipiscing.
 
+## Horizontal Rule Test
+Here it is:
+***
+
 ## Mardown Tests
 Emphasized words with *one star* (Italic)
 
