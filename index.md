@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Welcome! I'm glad you're here...
 
 ## Paragraph Test
@@ -13,7 +17,8 @@ This is a test paragraph.
 
 ## Horizontal Rule Test
 Here it is:
-***
+
+* * *
 
 ## Mardown Tests
 Emphasized words with *one star* (Italic)
@@ -23,6 +28,8 @@ Emphasized words with _one underscore_ (Italic again!)
 Emphasized words with **two stars** (Bold)
 
 Emphasized words with __two underscores__ (Bold again!)
+
+Use tilds for ~~strikethrough~~
 
 ## Lists Tests
 
@@ -48,3 +55,13 @@ This is an [example link](http://google.com/)
     #include "DBRec.h"
     #include "DisplayMgr_Evt.h"
 
+Another code block, with C highlight.
+```C
+// TI Library.
+#ifdef __cplusplus
+extern "C" {
+#include "hw_types.h"
+#include "flash.h"
+} // extern "C"
+#endif // __cplusplus
+```
