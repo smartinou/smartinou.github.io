@@ -1,1 +1,11 @@
+title: Your awesome title
+author: Smartin
+description: A page to know about my EE projects and a bit about me.
+
+# social links
+github_username:  smartinou
+
+show_excerpts: true # set to false to remove excerpts on the homepage
+show_downloads: false
+
 theme: jekyll-theme-modernist
