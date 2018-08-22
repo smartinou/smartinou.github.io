@@ -3,12 +3,22 @@
 ## Paragraph Test
 This is a test paragraph.
 
-## Mardown Tests
-Emphasized words with *one star*.
-Emphasized words with _one underscore_.
+## Blockquote Test
+> This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
+> consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
+> Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
+> 
+> Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
+> id sem consectetuer libero luctus adipiscing.
 
-Emphasized words with **two stars**.
-Emphasized words with __two underscores__.
+## Mardown Tests
+Emphasized words with *one star* (Italic)
+
+Emphasized words with _one underscore_ (Italic again!)
+
+Emphasized words with **two stars** (Bold)
+
+Emphasized words with __two underscores__ (Bold again!)
 
 ## Lists Tests
 
@@ -27,3 +37,10 @@ This is an [example link](http://google.com/)
 
 ## Code Tests
 `goto hell;`
+
+    // This is a code block test
+    // This project.
+    #include "BSP.h"
+    #include "DBRec.h"
+    #include "DisplayMgr_Evt.h"
+
