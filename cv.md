@@ -1,6 +1,9 @@
+---
+layout: default
+---
+
 # Firmware Engineer Resume
 
-* * *
 ## Embedded Application Developer
 System Architecture | Deeply Embedded Application
 
@@ -21,3 +24,4 @@ __Protocols__: IPv4/v6, TCP, UDP, HTTP, SNMP, SNTP, ICMP
 __Buses__: SPI, I2C, UART/USART, MDIO, USB, Ethernet
 
 * * *
+[back](./)
