@@ -46,7 +46,7 @@ Use tilds for ~~strikethrough~~
 ## Link Test
 This is an [example link](http://google.com/)
 
-[my resume] (/cv/)
+[my resume](./cv.html)
 
 ## Code Tests
 `goto hell;`
