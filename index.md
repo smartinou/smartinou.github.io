@@ -46,6 +46,8 @@ Use tilds for ~~strikethrough~~
 ## Link Test
 This is an [example link](http://google.com/)
 
+[my resume] (./cv.md)
+
 ## Code Tests
 `goto hell;`
 
@@ -56,7 +58,7 @@ This is an [example link](http://google.com/)
     #include "DisplayMgr_Evt.h"
 
 Another code block, with C highlight.
-```C
+```C++
 // TI Library.
 #ifdef __cplusplus
 extern "C" {
