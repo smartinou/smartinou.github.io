@@ -48,6 +48,8 @@ This is an [example link](http://google.com/)
 
 [my resume](./cv.html)
 
+[online-cv](https://smartinou.github.io/online-cv)
+
 ## Code Tests
 `goto hell;`
 
