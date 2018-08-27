@@ -4,68 +4,28 @@ layout: default
 
 # Welcome! I'm glad you're here...
 
-## Paragraph Test
-This is a test paragraph.
+This is my personal GitHub page.
 
-## Blockquote Test
-> This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
-> consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
-> Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
-> 
-> Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
-> id sem consectetuer libero luctus adipiscing.
+In this page, I will talk a bit about my personal and professional interests, and provide links to some of my existing EE projects!
 
-## Horizontal Rule Test
-Here it is:
+I hope you will stick around.
 
-* * *
+## My Resume
 
-## Mardown Tests
-Emphasized words with *one star* (Italic)
+I have over 20 years of experience as an Electronic Engineer. You can have a look at my resume for an overview of my experience and skills.
 
-Emphasized words with _one underscore_ (Italic again!)
+[Resume](https://smartinou.github.io/online-cv)
 
-Emphasized words with **two stars** (Bold)
+## Projects
 
-Emphasized words with __two underscores__ (Bold again!)
+### Beast Feed'Her (BFH)
 
-Use tilds for ~~strikethrough~~
+The BFH is a smart, connected feader for my pet cat.
 
-## Lists Tests
+The main highlights of this project are:
+*  ARM Cortex-M3 MCU
+*  QP event-driven platform
+*  Accessible over embedded web page for configuration
+*  To come: Configurable via mobile app (Bluetooth Low Energy)
 
-### Numbered List
-1. item 1.
-2. item 2.
-3. item 3.
-
-### Bullet List
-* 1st item.
-* 2nd item.
-* 3rd item.
-
-## Link Test
-This is an [example link](http://google.com/)
-
-[my resume](./cv.html)
-
-[online-cv](https://smartinou.github.io/online-cv)
-
-## Code Tests
-`goto hell;`
-
-    // This is a code block test
-    // This project.
-    #include "BSP.h"
-    #include "DBRec.h"
-    #include "DisplayMgr_Evt.h"
-
-Another code block, with C highlight.
-```C++
-// TI Library.
-#ifdef __cplusplus
-extern "C" {
-#include "hw_types.h"
-#include "flash.h"
-} // extern "C"
-#endif // __cplusplus
-```
+[Project link]
