@@ -28,4 +28,4 @@ The main highlights of this project are:
 *  Accessible over embedded web page for configuration
 *  To come: Configurable via mobile app (Bluetooth Low Energy)
 
-[Project link]
+[Project link](https://smartinou.github.io/map)
